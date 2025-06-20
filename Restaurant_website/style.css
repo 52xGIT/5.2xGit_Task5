@@ -16,6 +16,7 @@ body::-webkit-scrollbar{
 
 html{
     scroll-behavior: smooth;
+    scroll-padding-top: 80px;
 }
 #navItem1 {
   color: #323f4b;
@@ -275,7 +276,7 @@ html{
   background: rgba(237, 214, 8, 0.785);
   transition: all 0.3s ease-in-out;
   border-radius: 10px;
-<
+
 }
 
 
